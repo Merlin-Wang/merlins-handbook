@@ -6,5 +6,5 @@
 ## 安装
 
 - [x] 模组管理器中，粘贴清单文件地址：https://github.com/Merlin-Wang/merlins-handbook/blob/main/module.json 
-- [x] 模组管理器中，搜索 梅林之书 Merlin's Handbook [PF2e]
+- [x] 模组管理器中，搜索 梅林之书 Merlin's Handbook
 - [x] 下载 https://github.com/Merlin-Wang/merlins-handbook/releases/download/v0.9.0-alpha/merlins-handbook.zip 并解压至 modules 文件夹下
