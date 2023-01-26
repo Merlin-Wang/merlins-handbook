@@ -1,0 +1,42 @@
+{
+    "id": "merlins-handbook",
+    "name": "merlins-handbook",
+    "title": "Merlin's Handbook",
+    "description": "A collection of my homebrew content.",
+    "version": "0.9.0",
+    "authors": [
+        {
+            "name": "Merlin",
+            "email": "merlin@notdeadluna.com"
+        }
+    ],
+    "minimumCoreVersion": "0.8.6",
+    "compatibleCoreVersion": "9",
+    "compatibility": {
+        "minimum": "0.8.6",
+        "verified": "10"
+    },
+    "relationships": {
+        "systems": [
+          {
+            "id": "pf2e",
+            "type": "system",
+            "manifest": "https://github.com/foundryvtt/pf2e/releases/latest/download/system.json",
+            "compatibility": {
+              "minimum": "4.2.6"
+            }
+          }
+        ]
+    },    
+    "packs": [
+        {
+            "name": "merlins-handbook",
+            "label": "Merlin's Handbook",
+            "path": "./packs/merlins-handbook.db",
+            "type": "Item",
+            "system": "pf2e"
+        }
+    ],
+    "manifest": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/module.json",
+    "download": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/my-content-module.zip"
+  }
