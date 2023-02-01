@@ -6,8 +6,7 @@
     "version": "0.9.0",
     "authors": [
         {
-            "name": "Merlin",
-            "email": "merlin@notdeadluna.com"
+            "name": "Merlin"
         }
     ],
     "minimumCoreVersion": "0.8.6",
