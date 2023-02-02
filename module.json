@@ -4,9 +4,11 @@
     "title": "梅林之书 Merlin's Handbook",
     "description": "梅林之书，由梅林编写的PF2E第三方资源，包含了法师、女巫、浪客、调查员、魔战士的新职业选项和补充专长。 你可以使用本插件将它们快速的添加到你的FVTT游戏中。",
     "version": "0.9.0",
+    "url": "https://github.com/Merlin-Wang/merlins-handbook",
     "authors": [
         {
-            "name": "Merlin"
+            "name": "Merlin",
+            "email":"merlin@notdeadluna.com"
         }
     ],
     "minimumCoreVersion": "0.8.6",
